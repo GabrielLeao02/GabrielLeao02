@@ -1,6 +1,6 @@
-### Olá!! Eu sou Gabriel Leão, sou programador FullStack 🤘😀
+### Olá!! Me chamo Gabriel Leão 🤘😀
 
-- 🔭 Atualmente trabalho com programdor FullStack, desenvolvo Frot-and e programo o Back-and na linguagem Php.
+- 🔭 Atualmente trabalho com desenvolvimento mobile atraves de tecnologias como Flutter e Dart, tambem possuo experiencia com desenvolvimento web utilizando de tecnologias como JavaScript,Html, Css, VueJS, BootStrap, Codeigniter, Sql.
 - 🌱 Estou estudando Java avançado juntamente com FremeWork Spring.
 
 <div align="center">
