@@ -1,7 +1,8 @@
 ### Olá!! Me chamo Gabriel Leão 🤘😀
 
-- 🔭 Atualmente trabalho com desenvolvimento mobile atraves de tecnologias como Flutter e Dart, tambem possuo experiencia com desenvolvimento web utilizando de tecnologias como JavaScript,Html, Css, VueJS, BootStrap, Codeigniter, Sql.
-- 🌱 Estou estudando Java avançado juntamente com FremeWork Spring.
+- 🔭  Atualmente trabalho com desenvolvimento mobile através de tecnologias como Flutter e Dart, desenvolvo funcionalidades para UFCSPA gerando abas de grades de horários, inscrições em eventos, menus interativos.
+Possuo experiencia com desenvolvimento web utilizando de tecnologias como React, trabalhei durante bom tempo utilizando Html, Css, Jquery, Ajax , Php e Mysql.
+- 🌱 Estou estudando React e flutter para assim aprimorar cada vez mais meu conhecimento nas mesmas.
 
 <div align="center">
   <a href="https://github.com/GabrielLeao02">
