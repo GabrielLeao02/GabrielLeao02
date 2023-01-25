@@ -17,6 +17,4 @@ Possuo experiencia com desenvolvimento web utilizando de tecnologias como React,
  
  
   ![Snake animation](https://github.com/gabrielleao02/gabrielleao02/blob/output/github-contribution-grid-snake.svg)
-  <figure><embed src="https://wakatime.com/share/@5eb09f22-157f-4b62-b7d0-629cff460882/328ff565-2b0a-4d18-ad84-c358c5402132.svg"></embed></figure>
- 
 </div>
