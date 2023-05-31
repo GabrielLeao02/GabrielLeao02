@@ -1,8 +1,7 @@
-### Olá!! Me chamo Gabriel Leão 🤘😀
+### Hello!! My name is Gabriel Leão 🤘😀
 
-- 🔭  Atualmente trabalho com desenvolvimento mobile através de tecnologias como Flutter e Dart, desenvolvo funcionalidades para UFCSPA gerando abas de grades de horários, inscrições em eventos, menus interativos.
-Possuo experiencia com desenvolvimento web utilizando de tecnologias como React, trabalhei durante bom tempo utilizando Html, Css, Jquery, Ajax , Php e Mysql.
-- 🌱 Estou estudando React e flutter para assim aprimorar cada vez mais meu conhecimento nas mesmas.
+- 🔭 I currently work with mobile development through technologies like Flutter and Dart.
+- 🌱 I'm studying API development with spring.
 
 <div align="center">
   <a href="https://github.com/GabrielLeao02">
