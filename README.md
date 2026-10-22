@@ -1,7 +1,13 @@
 ### Hello!! My name is Gabriel Leão 🤘😀
 
-- 💻 Full Stack developer since 2021, working with PHP, Laravel, React and MySQL.
-- 📍 Porto Alegre, RS – Brazil
+Full Stack Developer since 2021, based in Porto Alegre, RS – Brazil. 🇧🇷
+
+- 💼 Most recently at **Lydia Sistemas Inteligentes** (2024–2026): migrated legacy PHP 5.6 systems to **Laravel 12**, modernized a **WhatsApp Business (Meta official API)** inbox with human + AI support, and built an automated lead re-engagement engine for an automotive CRM.
+- 🔌 Integrated the CRM with **Salesforce** and third-party inventory APIs, and optimized high-volume **MySQL** queries (EXPLAIN, composite indexes, JOIN refactoring).
+- 🛠️ **Stack:** PHP · Laravel · CodeIgniter · React · JavaScript · MySQL · REST APIs · Flutter/Dart
+- 🧱 **Practices:** MVC · Clean Architecture · SOLID · unit testing
+- 🎓 Technologist in Systems Analysis and Development (Leonardo da Vinci / UNIASSELVI, 2023)
+- 🔭 Open to new opportunities — 📫 gabriel.edg210@gmail.com
 
 <div align="center">
   <a href="https://github.com/GabrielLeao02">
