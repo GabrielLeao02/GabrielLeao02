@@ -15,4 +15,8 @@
   <a href="https://www.instagram.com/gabe_eduardo_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/GabrielLeao02/GabrielLeao02/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielLeao02/GabrielLeao02/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielLeao02/GabrielLeao02/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/GabrielLeao02/GabrielLeao02/output/github-contribution-grid-snake.svg" />
+</picture>
